@@ -67,7 +67,7 @@ export default ({ children, location }) => (
                 style={{
                   boxShadow: 'none',
                   textDecoration: 'none',
-                  color: 'inherit',
+                  color: '#ffffff',
                 }}
                 to={'/'}
               >
@@ -93,7 +93,7 @@ export default ({ children, location }) => (
               style={{
                 boxShadow: 'none',
                 textDecoration: 'none',
-                color: '#ffffff',
+                color: 'inherit',
               }}
               to={'/'}
             >
