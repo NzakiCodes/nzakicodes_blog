@@ -1,11 +1,6 @@
+The content of this blog will help newbies in tech #Nzaki Michael's Blog
 ## Hi There 
+![NzakiCodes Blog](https://cosmic-s3.imgix.net/d06976a0-5f38-11e8-8d36-899a40e2614f-5E5N49RWtbA.jpg?w=2000)> 
+This repo contains an Tech blog website by [NzakiCodes](https://twitter.com/NzakiCodes).
 <p align="middle">
-  <img width="600" src="https://github-profile-trophy.vercel.app/?username=NzakiCodes&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
-</p>
-
----
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=NzakiCodes&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1&layout=compact" />
-</div>
+The Blog can be found here [nzakicodes.netlify.app](https://nzakicodes.netlify.app)
