@@ -4,3 +4,5 @@ The content of this blog will help newbies in tech #Nzaki Michael's Blog
 This repo contains an Tech blog website by [NzakiCodes](https://twitter.com/NzakiCodes).
 <p align="middle">
 The Blog can be found here [nzakicodes.netlify.app](https://nzakicodes.netlify.app)
+
+# Be Eware Errors on Build
