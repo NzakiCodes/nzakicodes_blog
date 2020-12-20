@@ -5,4 +5,4 @@ This repo contains an Tech blog website by [NzakiCodes](https://twitter.com/Nzak
 <p align="middle">
 The Blog can be found here [nzakicodes.netlify.app](https://nzakicodes.netlify.app)
 
-# Be Eware Errors on Build
+# BeAware of Errors on Build
